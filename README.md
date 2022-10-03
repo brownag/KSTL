@@ -1,2 +1,2 @@
 # KSTL
-Keys to Soil Taxonomy Plumber API (https://https://soilschema.org/kstl/docs/)
+Keys to Soil Taxonomy Plumber API (https://soilschema.org/kstl/docs/)
